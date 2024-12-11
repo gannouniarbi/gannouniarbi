@@ -7,5 +7,7 @@
 - [**AI Collaboration**](https://github.com/example): Exploring AI-powered solutions.
 ### 📊 GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gannouniarbi)
+🌐 **Connect with me**:  
+[LinkedIn](www.linkedin.com/in/arbi-gannouni-609b941a9) | [Portfolio](https://yourportfolio.com)
 
 
